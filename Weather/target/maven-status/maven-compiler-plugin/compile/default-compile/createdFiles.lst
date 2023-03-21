@@ -1,0 +1,5 @@
+sg/edu/iss/nus/day17workshop/model/Weather.class
+sg/edu/iss/nus/day17workshop/model/Conditions.class
+sg/edu/iss/nus/day17workshop/controller/WeatherController.class
+sg/edu/iss/nus/day17workshop/Day17WorkshopApplication.class
+sg/edu/iss/nus/day17workshop/service/WeatherService.class
